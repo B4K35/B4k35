@@ -20,7 +20,7 @@
 
 -->
 
-### About Me
+<h3 align="center"> About Me </h3>
 
 - 👋 I’m Drew, I'm currently in my final year at Deakin University for my Bachelor of Cyber Security with a WAM of 72.🎓 
 
@@ -30,9 +30,7 @@
 
 ---
 
-<h3 align="left">🔥   Metrics :</h3>
-
-###
+<h3 align="center">🔥   Metrics </h3>
 
 <div align="center">
     <img width="450" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api?username=B4k35&count_private=true&show_icons=true&theme=calm_pink&rank_icon=github&border_radius=10" alt="readme stats" />
