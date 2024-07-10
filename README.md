@@ -56,7 +56,7 @@
 <div align="center">
     <h3>Tools and Softwares</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,kali,linux,regex,ubuntu,vscode,vsstudio,windows" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,kali,linux,regex,ubuntu,vscode,vstudio,windows" alt="Tools"/>
     </a>
 </div>
 
