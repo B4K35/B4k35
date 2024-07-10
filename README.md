@@ -35,12 +35,12 @@
 ###
 
 <div align="center">
-    <img width="450" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api?username=B4k35&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="325" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api/top-langs/?username=B4k35&&langs_count=12&layout=compact&theme=material-palenight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+    <img width="450" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api?username=B4k35&count_private=true&show_icons=true&theme=calm_pink&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="325" align="center" style="display: inline-block; vertical-align: top;" src="https://github-readme-stats-hvpm.vercel.app/api/top-langs/?username=B4k35&&langs_count=12&layout=compact&theme=calm_pink&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=B4k35&theme=onedark&row=1" alt="GitHub Profile Trophies" style="max-width: 100%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=B4k35&theme=kimbie_dark&row=1" alt="GitHub Profile Trophies" style="max-width: 100%;" />
 </div>
 
 ---
@@ -56,7 +56,7 @@
 <div align="center">
     <h3>Tools and Softwares</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,kali,linux,regex,ubuntu,vscode,vstudio,windows" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,kali,linux,regex,ubuntu,vscode,visualstudio,windows" alt="Tools"/>
     </a>
 </div>
 
